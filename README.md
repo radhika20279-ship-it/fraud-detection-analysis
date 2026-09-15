@@ -130,14 +130,3 @@ fraud-detection-analysis/
 5. For Dashboard: Open Tableau Public link above
 
 ---
-
-## 👩‍💻 Author
-
-**Radhika Chaturvedi**
-- 📧 [Your Email]
-- 💼 [Your LinkedIn]
-- 🐙 [Your GitHub Profile]
-
----
-
-*This project is part of my Data Analyst portfolio.*
